@@ -1,1 +1,2 @@
-Get-HotFix
+$htfx = Get-HotFix
+$htfx
