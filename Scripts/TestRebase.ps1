@@ -1,0 +1,2 @@
+$htfx = Get-HotFix
+$htfx
