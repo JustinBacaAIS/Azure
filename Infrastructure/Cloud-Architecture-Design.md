@@ -3,6 +3,13 @@
 ## Intro
 ![Azure Enterprise Scaffold](/Infrastructure/Images/AzureScaffold.png)
 ### The Basics
+#### Enterprise Agreement
+1. Departments
+2. Accounts
+3. Subscriptions
+
+![Enterprise Agreement Subdivision](/Infrastructure/Images/EADivision.png) 
+
 #### Subscriptions
 #### Resource Groups
 #### Resources
