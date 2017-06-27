@@ -1,7 +1,7 @@
 # Cloud Architecture Design
 
 ## Intro
-![Azure Enterprise Scaffold](/Images/AzureScaffold.png)
+![Azure Enterprise Scaffold](/Infrastructure/Images/AzureScaffold.png)
 ### The Basics
 #### Subscriptions
 #### Resource Groups
